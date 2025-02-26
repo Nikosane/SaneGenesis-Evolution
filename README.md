@@ -27,8 +27,10 @@ python main.py
 ## ⚙️ Configuration
 Modify `config.py` to tweak simulation parameters, AI behavior settings, and logging options.
 
-💡 **Future Enhancements:**
+## 💡 Future Enhancements:
+
 - Advanced AI evolution with deeper learning mechanisms.
 - Extended agent interactions with deception, alliances, and betrayal.
 - More detailed economy and warfare mechanics.
+
 
