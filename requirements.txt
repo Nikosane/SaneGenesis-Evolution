@@ -1,0 +1,5 @@
+rich  # For eye-catching CLI display
+numpy  # Numerical operations (if needed for AI processing)
+pandas  # Data management (optional, for future enhancements)
+json  # Built-in module for saving/loading state
+logging  # Built-in module for logging AI decisions
